@@ -1,4 +1,4 @@
-A = [1, 8 , 1, 87, 2, 6]
+A = [9, 8, 7 ,6 , 5, 4, 1]  # reverse sorted input pattern
 n = len(A)
 for j in range(1, n):
     key = A[j]
