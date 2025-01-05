@@ -8,4 +8,7 @@ for j in range(1, n):
         i = i-1
     A[i+1] = key
 
-print(A)
+print(A)    
+# theta(n^2) - worst case runtime
+# theta(n) - best case runtime
+
